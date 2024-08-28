@@ -33,3 +33,5 @@ En este desafio aprenderás cómo:
 
 - Una cuenta de GitHub.
 - Una suscripción de Azure.
+
+## Judith Grau
